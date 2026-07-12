@@ -11,7 +11,7 @@ Website RAG Chatbot allows users to index an entire website and interact with it
 Instead of searching manually through webpages, the chatbot retrieves the most relevant information from the indexed website and generates accurate answers using an LLM.
 
 ---
-
+ 
 # 🚀 Features
 
 - 🌍 Crawl complete websites
