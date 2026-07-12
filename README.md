@@ -44,7 +44,7 @@ Instead of searching manually through webpages, the chatbot retrieves the most r
 # 📂 Project Structure
 
 ```
-Website-RAG/
+Website_RAG_System/
 │
 ├── crawler.py
 ├── ingest.py
